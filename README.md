@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Associate Developer at Transunion,working in their Batch Team as Backend Engineer.\
+💡 &nbsp;I am an Associate Developer at Transunion,working in Batch Team as a Backend Engineer.\
 🎓 &nbsp;I did my Engineering in Electronics from VIT,Pune.\
 🌱 &nbsp;I'm on track for learning more about Backend, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I practice DSA and play cricket,badminton .\
