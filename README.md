@@ -14,7 +14,7 @@
 
 ### 💻 &nbsp;Leetcode stats
 
-[![Samyak's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=samyakp23)](https://github.com/samyak/leetcode-stats)
+![Samyak's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=samyakp23)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -45,6 +45,5 @@
 <a href="https://www.linkedin.com/in/samyak-padwekar-700bb515b/"><img src="https://img.shields.io/badge/-Samyak%20Padwekar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:padwekar.samyak@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/padwekar.samyak@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/23_s.a.m/"><img src="https://img.shields.io/badge/-@23_s.a.m-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://www.instagram.com/23_s.a.m/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a> &nbsp;
-<a href="https://www.instagram.com/23_s.a.m/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
 
